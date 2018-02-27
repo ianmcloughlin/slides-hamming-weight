@@ -1,4 +1,4 @@
-# Slides: Hamming weight`
+# Slides: Hamming weight
 These slides are used in teaching undergraduate students at [GMIT](http://www.gmit.ie).
 The lecturer is [Ian McLoughlin](https://ianmcloughlin.github.io).
 
